@@ -25,7 +25,9 @@ Developed a back-end for an e-commerce site. Using an Express.js API and a Seque
   
 ## 🚀 [Submission](#table-of-contents)
 
+
 Github Page: https://github.com/VimukthiGunasekara/e-commerce-back-end
+
 
 ## 👤 [User Story](#table-of-contents)
 
@@ -54,8 +56,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## 📺 [Mock-Up](#table-of-contents)
 
-![Image](./assets/images/home-page.png)
-![Image](./assets/images/note-page.png)
+![Image](./assets/images/get.gif)
 
 ## ⚙️ [Installation](#table-of-contents)
 Use your terminal to clone or download or copy the zip file to a directory of your choice. Then open the file in VS Code or whatever editor you use. In VS Code, open the terminal and navigate to e-commerce-back-end in the root directory. 
